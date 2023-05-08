@@ -187,11 +187,7 @@
 			<artifactId>aspectjweaver</artifactId>
 			<version>1.9.2</version>
 		</dependency>
-		<dependency>
-			<groupId>com.baomidou</groupId>
-			<artifactId>mybatis-plus-extension</artifactId>
-			<version>3.5.3</version>
-		</dependency>
+		
 		<dependency>
 			<groupId>javax.cache</groupId>
 			<artifactId>cache-api</artifactId>
